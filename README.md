@@ -6,7 +6,7 @@ The title of this project is
 
 **"Revealing Transcriptomic Insights through Reference-Based Annotation of Skeletal Muscle single-nucleus RNA Sequencing Data"**.
 
-[23-1 Capstone Project](https://leejinu.github.io/slide-site.github.io/PPT/Capstone_PPT.pdf)
+[23-1 Capstone Project](https://leejinu.github.io/23-1-CapstoneProject.io/ppt/Capstone_PPT.pdf)
 
 
 
